@@ -7,7 +7,7 @@ from sklearn.svm import SVC
 from sklearn.linear_model import SGDClassifier
 from sklearn.preprocessing import StandardScaler
 
-st.title("OZT Robotics application machine learning Classifier")
+st.title("Welcome to machine learning Classifier")
 
 df_test = pd.read_csv(
     'data_testing.csv')
